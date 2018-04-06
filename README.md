@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+My Week Report
 
-You can use the [editor on GitHub](https://github.com/MounigaN/myfirstrepository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2-Apr-18    
 
-### Markdown
+            trailhead 
+            debug logs 
+            CSC - Case Management : 43397 
+            skype call 
+            smart box ppt
+            
+               
+3-Apr-18
+            
+            smart box ppt 
+            videos
+            build ppt
+            R14 trailhead
+            
+            
+4-Apr-18 
+        
+            created customobject and added fields in R14 
+            Validated the task in dev13 Testclasses codecoverage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MounigaN/myfirstrepository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+5-Apr-18    
+            
+            Youtubevideos 
+            POC 
+            Apex code
